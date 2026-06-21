@@ -4,7 +4,7 @@
 name: Emre Ferit Aslantaş
 role: DevOps Lead | Platform & MLOps Engineer | kubectl apply -f life.yaml
 location: Istanbul, Turkey 🇹🇷
-languages: Turkish (native) | English (professional)
+languages: Turkish
 experience: 10+ years
 
 domains:
