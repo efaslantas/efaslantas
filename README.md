@@ -117,21 +117,21 @@ motto: "Build systems that run while you sleep."
 <div align="center">
 
 #### Commit Streak
-<img src="https://streak-stats.demolab.com/?user=efaslantas&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=efaslantas&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&disable_animations=true" alt="GitHub Streak" />
 
 #### Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=efaslantas&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00" width="100%" alt="Contribution Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=efaslantas&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&disable_animations=true" width="100%" alt="Contribution Activity" />
 
 #### Profile Overview
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efaslantas&theme=github_dark" width="100%" alt="Profile Overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efaslantas&theme=github_dark&v=2" width="100%" alt="Profile Overview" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efaslantas&theme=github_dark" width="32%" alt="Top Languages (by repo)" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efaslantas&theme=github_dark" width="32%" alt="Top Languages (by commit)" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efaslantas&theme=github_dark&utcOffset=3" width="32%" alt="Coding Hours (UTC+3)" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=efaslantas&theme=github_dark&v=2" width="32%" alt="Top Languages (by repo)" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efaslantas&theme=github_dark&v=2" width="32%" alt="Top Languages (by commit)" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=efaslantas&theme=github_dark&utcOffset=3&v=2" width="32%" alt="Coding Hours (UTC+3)" />
 
 </div>
 
